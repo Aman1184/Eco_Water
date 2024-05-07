@@ -1,0 +1,22 @@
+
+.navbar-logo img {
+    height: 90px;
+    width: auto;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    /* adjust the z-index as needed */
+}
+
+.sticky-navbar {
+    background-color: #39f5e285;
+    /* Change this to the desired background color */
+}
+.button:hover {
+    background-color: gray;
+    /* Change to your desired grey color */
+}
